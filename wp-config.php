@@ -21,6 +21,9 @@ define( 'WP_CACHE', true );
  */
 
 // ** Database settings - You can get this info from your web host ** //
+/* Nueva BD en local */
+define('WP_HOME','http://localhost');
+define('WP_SITEURL','http://localhost');
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'u285418770_RCDVv' );
 
@@ -31,7 +34,7 @@ define( 'DB_USER', 'u285418770_w9w6M' );
 define( 'DB_PASSWORD', 'pgmlHZtDxu' );
 
 /** Database hostname */
-define( 'DB_HOST', 'mysql' );
+define( 'DB_HOST', 'localhost' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
@@ -100,3 +103,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+
+/* Direct saving */
+define('FS_METHOD', 'direct');
