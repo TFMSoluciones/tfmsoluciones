@@ -1,0 +1,33 @@
+{
+	"name": "kubio/copyright",
+	"category": "kubio-site-data",
+	"attributes": {
+		"kubio": {
+			"type": "object"
+		},
+		"template": {
+			"type": "string",
+			"source": "html",
+			"default": "© {year} {site-name}. Created with ❤️ using WordPress and <a target=\"_blank\" href=\"https://kubiobuilder.com\" rel=\"noreferrer\">Kubio</a>"
+		}
+	},
+	"supports": {
+		"kubio": {
+			"elementsEnum": {
+				"CONTAINER": "container"
+			},
+			"elementsByName": {
+				"container": {
+					"wrapper": true,
+					"default": true
+				}
+			},
+			"template": {
+				"type": "element",
+				"props": {
+					"name": "container"
+				}
+			}
+		}
+	}
+}
