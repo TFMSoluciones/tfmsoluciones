@@ -6,3 +6,23 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Apr-2022 04:47:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-May-2022 05:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-May-2022 18:46:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-May-2022 14:54:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-May-2022 01:11:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

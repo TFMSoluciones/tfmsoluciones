@@ -14,3 +14,43 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/template-canvas.php on line 12
+[29-Apr-2022 04:41:12 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[29-Apr-2022 04:41:12 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[29-Apr-2022 04:41:12 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[29-Apr-2022 04:41:12 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[29-Apr-2022 04:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/template-canvas.php on line 12
+[02-May-2022 05:13:05 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[02-May-2022 05:13:05 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[02-May-2022 05:13:05 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[02-May-2022 05:13:05 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[02-May-2022 05:13:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/template-canvas.php on line 12
+[04-May-2022 18:45:13 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[04-May-2022 18:45:13 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[04-May-2022 18:45:13 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[04-May-2022 18:45:13 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[04-May-2022 18:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/template-canvas.php on line 12
+[06-May-2022 14:47:23 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[06-May-2022 14:47:23 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[06-May-2022 14:47:23 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[06-May-2022 14:47:23 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[06-May-2022 14:49:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/template-canvas.php on line 12
+[08-May-2022 01:00:36 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[08-May-2022 01:00:36 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[08-May-2022 01:00:36 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[08-May-2022 01:00:36 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/class-wp-http.php on line 11
+[08-May-2022 01:02:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u285418770/domains/tfmsoluciones.com/public_html/wp-includes/template-canvas.php on line 12
